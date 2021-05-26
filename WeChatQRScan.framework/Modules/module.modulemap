@@ -1,0 +1,6 @@
+framework module WeChatQRScan {
+  umbrella header "WeChatQRScan.h"
+
+  export *
+  module * { export * }
+}
